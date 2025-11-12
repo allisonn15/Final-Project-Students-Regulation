@@ -1,0 +1,299 @@
+body{
+    background-color: blanchedalmond;
+}
+
+h1{
+    background-color: darksalmon;
+    margin: 0px;
+    padding: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+button{
+    height: 100px;
+    width: 200px;
+    background-color: lightsteelblue;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 400;
+    transition: background-color 0.3s ease;
+    border-radius: 25px;
+    margin: 20px;
+}
+
+button:hover{
+    background-color: aqua;
+}
+
+.hehehe{
+   background-color: antiquewhite;
+   height: 100px;
+   font-size: 25px; 
+   margin: 0px;
+   text-align: center;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-weight: 400;
+}
+
+.hehehe2{
+    background-color: antiquewhite;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.hehehe3{
+    display: flex;
+    gap: 10px;
+}
+
+.heheh4{
+    width: 600px;
+}
+
+
+marquee{
+    background-color: pink;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.h41{
+    background-color: pink;
+    width: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.h42{
+    background-color: pink;
+    width: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.h43{
+    background-color: pink;
+    width: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.h44{
+    background-color: pink;
+    width: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.h45{
+    background-color: pink;
+    width: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.h46{
+    background-color: pink;
+    width: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.h47{
+    background-color: pink;
+    width: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.h48{
+    background-color: pink;
+    width: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.h49{
+    background-color: pink;
+    width: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.h410{
+    background-color: pink;
+    width: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.h411{
+    background-color: pink;
+    width: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.h412{
+    background-color: pink;
+    width: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.h413{
+    background-color: pink;
+    width: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+
+
+.ol1{
+    background-color: pink;
+    width: 300px;
+    padding: 20px;
+    border: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.ol2{
+    background-color: pink;
+    width: 300px;
+    padding: 20px;
+    border: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.ol3{
+    background-color: pink;
+    width: 300px;
+    padding: 20px;
+    border: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.ol4{
+    background-color: pink;
+    width: 300px;
+    padding: 20px;
+    border: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.ol5{
+    background-color: pink;
+    width: 300px;
+    padding: 20px;
+    border: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.ol6{
+    background-color: pink;
+    width: 300px;
+    padding: 20px;
+    border: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.ol7{
+    background-color: pink;
+    width: 300px;
+    padding: 20px;
+    border: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.ol8{
+    background-color: pink;
+    width: 300px;
+    padding: 20px;
+    border: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.ol9{
+    background-color: pink;
+    width: 300px;
+    padding: 20px;
+    border: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.ol10{
+    background-color: pink;
+    width: 300px;
+    padding: 20px;
+    border: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.ol11{
+    background-color: pink;
+    width: 300px;
+    padding: 20px;
+    border: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.ol12{
+    background-color: pink;
+    width: 300px;
+    padding: 20px;
+    border: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.ol13{
+    background-color: pink;
+    width: 300px;
+    padding: 20px;
+    border: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+
+.div1{
+    display: flex;
+    gap: 80px;
+}
+.div2{
+    display: flex;
+    gap: 32px;
+}
+.div3{
+    display: flex;
+    gap: 80px;
+}
+.div4{
+    display: flex;
+    gap: 32px;
+}
+.div5{
+    display: flex;
+    gap: 80px;
+}
+.div6{
+    display: flex;
+    gap: 32px;
+}
+.div7{
+    display: flex;
+    gap: 32px;
+}
+.div8{
+    display: flex;
+    gap: 32px;
+}
+
+.img1{
+    height: 370px;
+}
+.img2{
+    height: 370px;
+    width: 450px;
+}
+
+.divnames{
+    display: flex;
+    gap: 160px;
+}
+
+
+
+
+.divimg{
+    display: flex;
+}
+.chanel{
+    height: 400px;
+    width: 1600px;
+}
+.chloe{
+    height: 400px;
+    width: 800PX;
+}
+.giselle{
+    width: 1600px;
+    height: 400px;
+}
+.leticia{
+    height: 400px;
+    width: 800px;
+}
+.vanessa{
+    height: 400px;
+    width: 1600px;
+}
+
+
+.nogithub{
+    margin: 40px;
+}
